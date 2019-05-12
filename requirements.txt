@@ -1,4 +1,4 @@
 PyCrypto
-GMPY2
+Gmpy2==2.0.6
 SymPy
 requests
