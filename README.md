@@ -1,2 +1,12 @@
 # Crypto-codes
-standard codes for encrypting or decrypting ciphertexts
+Standard codes for decrypting ciphertexts
+
+
+To use first run this on your terminal:
+```
+apt install libgmp-dev libmpfr-dev libmpc-dev
+```
+&
+```
+pip install -r requirements.txt
+```
