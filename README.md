@@ -1,9 +1,9 @@
-## Crypto-codes
+# Crypto-codes
 
 
 Standard codes for decrypting ciphertexts
 
-# Installation:
+## Installation:
 
 To use first run this on your terminal:
 ```
@@ -13,7 +13,7 @@ apt install libgmp-dev libmpfr-dev libmpc-dev
 ```
 pip install -r requirements.txt
 ```
-# Usage:
+## Usage:
 
 * Simple rsa attack
   * p - public key
