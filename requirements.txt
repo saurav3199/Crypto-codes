@@ -1,4 +1,6 @@
 PyCrypto
-Gmpy2==2.0.6
+python-gmpy2
+python-gmpy
+python-openssl
 SymPy
 requests
