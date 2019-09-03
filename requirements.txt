@@ -1,5 +1,4 @@
 PyCrypto
 gmpy2
-python-openssl
 SymPy
 requests
