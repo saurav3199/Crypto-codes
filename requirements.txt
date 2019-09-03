@@ -1,6 +1,7 @@
 PyCrypto
-python-gmpy2
-python-gmpy
+libmpfr-dev
+libmpc-dev
+gmpy2
 python-openssl
 SymPy
 requests
