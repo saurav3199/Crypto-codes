@@ -7,7 +7,7 @@ Standard codes for decrypting ciphertexts
 
 To use first run this on your terminal:
 ```
-apt install libgmp-dev libmpfr-dev libmpc-dev
+sudo apt install libgmp-dev libmpfr-dev libmpc-dev
 ```
 &
 ```
