@@ -1,3 +1,7 @@
 language: python
-rvm:
-- 2.7
+addons:
+  apt:
+  packages: &common_packages
+  - libgmp-dev 
+  - libmpfr-dev 
+  - libmpc-dev
