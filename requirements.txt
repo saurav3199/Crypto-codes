@@ -1,6 +1,4 @@
 PyCrypto
-libmpfr-dev
-libmpc-dev
 gmpy2
 python-openssl
 SymPy
