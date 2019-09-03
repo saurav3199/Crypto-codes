@@ -11,7 +11,7 @@ sudo apt install libgmp-dev libmpfr-dev libmpc-dev
 ```
 &
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 ## Usage:
 
