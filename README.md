@@ -24,6 +24,6 @@ python rsa.py [p] [n] [e]
 ```
 where p,n,e are in integers
 
-##TODOS:
+## TODOS:
 
 More codes will be added here
