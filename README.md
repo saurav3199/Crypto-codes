@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/saurav3199/Crypto-codes.svg?branch=master)](https://travis-ci.org/saurav3199/Crypto-codes.svg?branch=master)
 # Crypto-codes
 
 
