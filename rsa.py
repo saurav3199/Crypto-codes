@@ -1,6 +1,7 @@
-import gmpy2,sys
+import sys
 import traceback
 import binascii
+from Crypto.Util.number import inverse
 
 try:
     l=map(int,sys.argv[1:])
@@ -8,7 +9,7 @@ try:
     c=int(input("Enter the ciphertext you want to uncipher:"))
     q=n//p
     h=(p-1)*(q-1)
-    d=gmpy2.invert(e,h)
+    d=inverse(e,h)
     plain=hex(pow(c,d,n))[2:]
     print("The original plaintext is: " + ''.join([chr(int(''.join(c), 16)) for c in zip(plain[0::2],plain[1::2])]))
     #print(binascii.unhexlify(plain)) # If you want to use binascii

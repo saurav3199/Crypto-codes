@@ -1,4 +1,3 @@
-PyCrypto
+pycryptodome
 SymPy
 requests
-gmpy2
