@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
   * n - modulus
   * e - public exponent
 ```
-python rsa.py [p] [n] [e]
+python rsa.py [p] [n] [e] << [c]
 ```
 where p,n,e are in integers
 
